@@ -29,6 +29,9 @@ This project applies **unsupervised learning (clustering)** to group movie users
 - Best params: **k = 3, PCA = 100**
 - Silhouette ≈ 0.45 (better!)
 
+<img width="698" height="506" alt="image" src="https://github.com/user-attachments/assets/25abf347-53f9-4608-8e3a-a2fb8dac1f7d" />
+
+
 ### Phase 6: Visualization
 - 2D PCA scatter plot
 - 3D PCA scatter plot
@@ -39,9 +42,12 @@ This project applies **unsupervised learning (clustering)** to group movie users
 - **Cluster 1**: Romance & Family-oriented viewers
 - **Cluster 2**: Drama & Crime buffs
 
+<img width="552" height="486" alt="image" src="https://github.com/user-attachments/assets/77097bc7-dd7a-4006-ad79-44d0f6dda9fa" />
+
+
 ### Phase 8: Deployment
 - Serialize trained models (joblib.dump)
-= Build Streamlit dashboard for interactive demo
+- Build Streamlit dashboard for interactive demo
 
 
 **Business Actions**:
